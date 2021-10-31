@@ -1,4 +1,6 @@
-@import url('https://fonts.googleapis.com/css?family=Lato:400,700,900');
+@import url('https://fonts.googleapis.com/css?family=Lato:400,700,900'); //google font api
+
+/* start of file */
 body{
     background-attachment: fixed;
     background-image: url(images/img1.jpeg);
